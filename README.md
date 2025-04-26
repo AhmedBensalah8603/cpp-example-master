@@ -16,5 +16,4 @@ Based on [CI/CD templates](https://gitlab.com/gitlab-org/gitlab/-/blob/master/li
 - [Doxygen configuration](https://gitlab.com/pages/doxygen)
 
 _Forked from https://gitlab.com/winkies/cpp-example_
-# cpp-example-master
-# cpp-example-master
+
